@@ -39,19 +39,3 @@
   url = "https://zhyoch-nav.netlify.app"
   title = "自用的导航网站"
   weight = 4
-[[main]]
-  identifier = "travelling"
-  pre = "<i class='fas fa-subway'></i>"
-  post = ""
-  name = "开往"
-  url = "https://www.travellings.cn/go.html"
-  title = "开往友链接力"
-  weight = 5
-[[main]]
-  identifier = "wormhole"
-  pre = "<i class='fas fa-circle-notch fa-spin'></i>"
-  post = ""
-  name = "虫洞"
-  url = "https://www.foreverblog.cn/go.html"
-  title = "十年之约友链接力"
-  weight = 6

@@ -174,9 +174,9 @@ keywords = ["太微华,zhyoch"]
   Youtubecustom = ""
   Youtubelegacy = ""
   Zhihu = ""
-  [social.Diaspora]
-    id = "@xxxx"
-    prefix = "https://yyyy/"
+  # [social.Diaspora]
+  #   id = ""
+  #   prefix = ""
 # Sponsor config
 # 赞助设置
 [sponsor]

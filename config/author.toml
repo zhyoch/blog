@@ -1,0 +1,8 @@
+# Author config
+# 作者配置
+
+name = "太微华"
+email = "zhyoch1@gmail.com"
+link = "https://zhyoch.netlify.app"
+avatar = "/images/avatar-square.webp"
+gravatarEmail = ""

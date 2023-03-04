@@ -302,7 +302,7 @@ bundle = false
     # Twikoo comment 评论系统设置 (https://twikoo.js.org/)
     [page.comment.twikoo]
       enable = true
-      envId = "https://twikoo.bahuangshanren.tech"
+      envId = "https://twikoo-zhyoch.vercel.app"
       region = ""
       path = ""
       visitor = true

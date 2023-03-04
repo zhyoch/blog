@@ -36,7 +36,7 @@
   pre = "<i class='fas fa-compass'></i>"
   post = ""
   name = "导航"
-  url = "https://nav.bahuangshanren.tech"
+  url = "https://zhyoch-nav.netlify.app"
   title = "自用的导航网站"
   weight = 4
 [[main]]

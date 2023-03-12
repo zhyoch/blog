@@ -54,7 +54,7 @@ https://cmwtat.cloudmoe.com/cn.html 或 https://github.com/TGSAN/CMWTAT_Digital_
 
 10. [Context Menu Manager](https://gitee.com/BluePointLilac/ContextMenuManager)
 
-11. [CrystalDiskInfo](https://crystalmark.info/en/download/)
+11. [CrystalDiskInfo & CrystalDiskMark](https://crystalmark.info/en/download/)
 
 12. [DiskGenius](https://www.diskgenius.cn/)
 
@@ -76,97 +76,103 @@ https://cmwtat.cloudmoe.com/cn.html 或 https://github.com/TGSAN/CMWTAT_Digital_
 
 21. [Gradle](https://gradle.org/install/)
 
-22. [HiBit Uninstaller](https://www.hibitsoft.ir/)
+22. [HEVC扩展​](https://store.rg-adguard.net/), 来自设备制造商的HEVC扩展, ​ProductId: 9n4wgh0z6vhq。
 
-23. [Hugo](https://github.com/gohugoio/hugo/releases/latest), 下载`hugo_extended`
+23. [HiBit Uninstaller](https://www.hibitsoft.ir/)
 
-24. [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download/)
+24. [Hugo](https://github.com/gohugoio/hugo/releases/latest), 下载`hugo_extended`
 
-25. [Internet Download Manager](https://www.internetdownloadmanager.com/)+[Crack](https://www.crackingcity.com/idm-crack/)
+25. [ImageGlass](https://imageglass.org/)
 
-26. [Kaspersky](https://my.kaspersky.com/)
+26. [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download/)
 
-27. [LockHunter](https://lockhunter.com/)
+27. [Internet Download Manager](https://www.internetdownloadmanager.com/)+[Crack](https://www.crackingcity.com/idm-crack/)
 
-28. [Lunacy](https://icons8.com/lunacy)
+28. [Kaspersky](https://my.kaspersky.com/)
 
-29. [Maven](https://maven.apache.org/download.cgi)
+29. [LockHunter](https://lockhunter.com/)
 
-30. [Microsoft .NET SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet)
+30. [Lunacy](https://icons8.com/lunacy)
 
-31. [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist)
+31. [Maven](https://maven.apache.org/download.cgi)
 
-32. [Microsoft Visual Studio Code](https://code.visualstudio.com/#alt-downloads)
+32. [Microsoft 365 E5 Renew Plus](https://e5renew.com/)
 
-33. [Mi Flash](http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip)
+33. [Microsoft .NET SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet)
 
-34. [Mi Flash Unlock](https://www.miui.com/unlock/download.html)
+34. [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist)
 
-35. [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases/latest)
+35. [Microsoft Visual Studio Code](https://code.visualstudio.com/#alt-downloads)
 
-36. [MySQL](https://www.mysql.com/downloads/)
+36. [Mi Flash](http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip)
 
-37. [Navicat Premium](https://www.navicat.com.cn/download/navicat-premium)
+37. [Mi Flash Unlock](https://www.miui.com/unlock/download.html)
 
-38. [Node.js](https://nodejs.org/zh-cn/download/current/)
+38. [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2/releases/latest)
 
-39. [OBS Studio](https://obsproject.com/)
+39. [MySQL](https://www.mysql.com/downloads/)
 
-40. [Office Tool Plus](https://otp.landian.vip/zh-cn/)+[GVLKs](https://learn.microsoft.com/en-us/deployoffice/vlactivation/gvlks)+[KMS](https://www.coolhub.top/tech-articles/kms_list.html)
+40. [Navicat Premium](https://www.navicat.com.cn/download/navicat-premium)
 
-41. [OpenJDK Archived](https://jdk.java.net/archive/)
+41. [Node.js](https://nodejs.org/zh-cn/download/current/)
 
-42. [Oracle JDK Archive](https://www.oracle.com/java/technologies/downloads/archive/)
+42. [OBS Studio](https://obsproject.com/)
 
-43. [Pandoc](https://github.com/jgm/pandoc/releases/latest)
+43. [Office Tool Plus](https://otp.landian.vip/zh-cn/)+[GVLKs](https://learn.microsoft.com/en-us/deployoffice/vlactivation/gvlks)+[KMS](https://www.coolhub.top/tech-articles/kms_list.html)
 
-44. [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+44. [OpenJDK Archived](https://jdk.java.net/archive/)
 
-45. [QtScrcpy](https://github.com/barry-ran/QtScrcpy/releases/latest)
+45. [Oracle JDK Archive](https://www.oracle.com/java/technologies/downloads/archive/)
 
-46. [Snipaste](https://zh.snipaste.com/)
+46. [Pandoc](https://github.com/jgm/pandoc/releases/latest)
 
-47. [StarUML](https://staruml.io/download)
+47. [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 
-48. [Telegram](https://telegram.org/)
+48. [QtScrcpy](https://github.com/barry-ran/QtScrcpy/releases/latest)
 
-49. [TickTick](https://ticktick.com/)
+49. [Snipaste](https://zh.snipaste.com/)
 
-50. [TopMost](https://www.sordum.org/9182/window-topmost-control-v1-2/)
+50. [StarUML](https://staruml.io/download)
 
-51. [TrafficMonitor](https://gitee.com/zhongyang219/TrafficMonitor)
+51. [Telegram](https://telegram.org/)
 
-52. [Typora](https://www.typora.io/)
+52. [TickTick](https://ticktick.com/)
 
-53. [Uninstall Tool](https://crystalidea.com/uninstall-tool/download) ([Geek Uninstaller](https://geekuninstaller.com/)的Pro版本) 
+53. [TopMost](https://www.sordum.org/9182/window-topmost-control-v1-2/)
 
-54. [Ventoy](https://github.com/ventoy/Ventoy/releases/latest)
+54. [TrafficMonitor](https://gitee.com/zhongyang219/TrafficMonitor)
 
-55. [Victoria HDD](https://hdd.by/victoria/)
+55. [Typora](https://www.typora.io/)
 
-56. [VLC](https://www.videolan.org/vlc/)
+56. [Uninstall Tool](https://crystalidea.com/uninstall-tool/download) ([Geek Uninstaller](https://geekuninstaller.com/)的Pro版本) 
 
-57. [Windows Defender Control](https://www.sordum.org/9480/defender-control-v2-0/)
+57. [Ventoy](https://github.com/ventoy/Ventoy/releases/latest)
 
-58. [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-6/)
+58. [Victoria HDD](https://hdd.by/victoria/)
 
-59. [阿里云盘](https://www.aliyundrive.com/)
+59. [VLC](https://www.videolan.org/vlc/)
 
-60. [百度网盘](https://pan.baidu.com/download)
+60. [Windows Defender Control](https://www.sordum.org/9480/defender-control-v2-0/)
 
-61. [百度翻译](https://fanyi.baidu.com/appdownload/download.html)
+61. [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-6/)
 
-62. [哔哩下载姬](https://github.com/leiurayer/downkyi/releases/latest)
+62. [阿里云盘](https://www.aliyundrive.com/)
 
-63. [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
+63. [百度网盘](https://pan.baidu.com/download)
 
-64. [QQ](https://im.qq.com/download)
+64. [百度翻译](https://fanyi.baidu.com/appdownload/download.html)
 
-65. [腾讯会议](https://meeting.tencent.com/download-center.html)
+65. [哔哩下载姬](https://github.com/leiurayer/downkyi/releases/latest)
 
-66. [网易邮箱大师](https://dashi.163.com/download.html)
+66. [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 
-67. [微信](https://weixin.qq.com/)
+67. [QQ](https://im.qq.com/download)
+
+68. [腾讯会议](https://meeting.tencent.com/download-center.html)
+
+69. [网易邮箱大师](https://dashi.163.com/download.html)
+
+70. [微信](https://weixin.qq.com/)
 
 ## 系统参数
 
@@ -226,13 +232,12 @@ D:\Pandoc\;
 
 定位到注册表`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`, 新建`DWORD (32位) 值`, 命名为`UseOLEDTaskbarTransparency`, 修改数值数据为**1**(十六进制), 最后重启**explorer.exe**。
 
-
 ### 时间显示秒数
 
 定位到注册表`HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`, 新建`DWORD (32位) 值`, 命名为`ShowSecondsInSystemClock`, 修改数值数据为**1**(十六进制), 最后重启**explorer.exe**。
 
 {{< admonition type=info title="注意" open=true >}}
-Windows10可用, Windows11删除了这项功能。
+Windows10可用, Windows11删除了这项功能, 后来说是要再添加上, 但是时间上还不明确。
 {{< /admonition >}}
 
 ### 右键菜单检测文件哈希值
@@ -246,32 +251,31 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash]
 "MUIVerb"="Get-FileHash"
-"SubCommands"=""
 "Icon"="imageres.dll,312"
+"SubCommands"=""
 
-; MD5
+[HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell]
+
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\MD5]
 "MUIVerb"="MD5"
-"Icon"="C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\PowerShell.exe,0"
+"Icon"="imageres.dll,312"
 
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\MD5\command]
-@="PowerShell -NoExit -Command \"mode con cols=90 lines=15\";\"Get-FileHash -LiteralPath '%1' -Algorithm MD5 | Format-List\""
+@="PowerShell -NoExit Get-FileHash '%1' -Algorithm MD5 | Format-List"
 
-;SHA1
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\SHA1]
 "MUIVerb"="SHA1"
-"Icon"="C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\PowerShell.exe,0"
+"Icon"="imageres.dll,312"
 
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\SHA1\command]
-@="PowerShell -NoExit -Command \"mode con cols=90 lines=15\";\"Get-FileHash -LiteralPath '%1' -Algorithm SHA1 | Format-List\""
+@="PowerShell -NoExit Get-FileHash '%1' -Algorithm SHA1 | Format-List"
 
-;SHA256
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\SHA256]
 "MUIVerb"="SHA256"
-"Icon"="C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\PowerShell.exe,0"
+"Icon"="imageres.dll,312"
 
 [HKEY_CLASSES_ROOT\*\shell\Get-FileHash\Shell\SHA256\command]
-@="PowerShell -NoExit -Command \"mode con cols=90 lines=15\";\"Get-FileHash -LiteralPath '%1' -Algorithm SHA256 | Format-List\""
+@="PowerShell -NoExit Get-FileHash '%1' -Algorithm SHA256 | Format-List"
 ```
 
 #### 移除
@@ -311,52 +315,3 @@ Windows Registry Editor Version 5.00
 ### NodeJS
 
 参考[NodeJS、NPM与Yarn的安装与配置](https://zhyoch.netlify.app/2021-10)。
-
-## 重装开机步骤
-
-1. 重装时不进行磁盘分区操作, 直接将系统安装在某块硬盘。
-2. 开机使用离线模式。
-3. 使用本地账户登录系统, 账户名使用英文。
-4. 进行磁盘分区。
-5. 更改`视频`、`图片`、`文档`、`下载`、`音乐`、`桌面`这些文件夹的位置。
-6. 使用[Windows Defender Control](https://www.sordum.org/9480/defender-control-v2-0/)禁用Windows Defender。
-
-    > 因为有次重装Windows10和11, 开机后`COM Surrogate`进程占用飙升, 全网搜索无果, 据我排查, 猜测是Windows Defender的锅。
-
-7. 安装提前从官网下载到U盘的驱动。
-8. 更改设置、控制面板等各种细节设置。
-9. 安装卸载监控软件, 如[HiBit Uninstaller](https://www.hibitsoft.ir/), [Uninstall Tool](https://crystalidea.com/uninstall-tool/download)或[Geek Uninstaller](https://geekuninstaller.com/)
-10. 卸载无用的Microsoft Store软件。
-11. 安装软件。
-12. 设置服务、任务计划程序、启用或关闭Windows功能、查看开机自启软件。
-13. 设置各种系统参数、个性化的注册表和终端设置。
-
-
-## 资源管理器视图调整
-
-{{< image src="1.png" caption="资源管理器" height="auto" width="80%">}}
-
-### 固定到快速访问
-
-- 回收站
-- 用户文件夹: `C:\Users\Username`
-- 用户缓存文件夹: `C:\Users\Username\AppData\Local\Temp`
-
-### 查看及排序
-
-个人习惯将列调整为`名称`、`大小`、`修改日期`、`创建日期`和`类型`, **查看**为`详细信息`, **分组依据**为`类型→递减`, **排序方式**为`名称→递增`, 最后点击**文件夹选项**→**应用到文件夹**。
-
-{{< image src="2.png" caption="调整列宽" height="auto" width="80%">}}
-
-{{< image src="3.png" caption="文件夹选项" height="auto" width="50%">}}
-
-#### “应用到文件夹”作用范围
-
-{{< admonition type=info title="注意" open=true >}}
-**文件夹选项**→**应用到文件夹**作用范围在不同情况下是不一样的, 毕竟提示说“你可以将此视图(如详细信息或图标)应用于**这种类型**的所有文件夹”。
-{{< /admonition >}}
-
-1. 磁盘分区的根目录是一种类型。在磁盘分区的根目录下使用“应用到文件夹”, 另外的磁盘分区根目录会出现同样的效果, 但是其子菜单无效果。比如在`D:\`应用, `C:\`和`E:\`有效果, 但`C:\abc`和`E:\abc`无效果。
-2. 磁盘分区的子目录是一种类型。在磁盘分区的子目录下使用“应用到文件夹”, 这时另外的磁盘分区的子菜单终于有效果了。
-3. `视频`、`图片`、`文档`、`下载`、`音乐`、`桌面`这些文件夹都代表各自的类型, 所以需要每一个都单独“应用到文件夹”一遍。
-4. OneDrive以及其他特殊属性的文件夹需要单独“应用到文件夹”。

@@ -185,7 +185,7 @@ then
 fi
 ```
 
-颜色和[上面](#解释)一样, 但是粗体效果不明显, 感觉只是颜色变明亮了。
+要想效果和上面一样，需要更改GitBash的设置: `Options`→`Text`→`Show blod`→`as font & as colour`
 
 {{< admonition type=quote title="参考链接" open=true >}}
 1. [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)

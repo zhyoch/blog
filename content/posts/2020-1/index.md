@@ -21,7 +21,7 @@ summary: Git、Linux与Windows的终端代理设置。
 **格式**: 
 
 ```shell
-set http_proxy=http://proxy_userid:proxy_password@proxy_ip:proxy_port
+set http_proxy=http://[proxy_userid]:[proxy_password]@proxy_ip:proxy_port
 ```
 
 输入设置代理的命令: 
@@ -73,7 +73,7 @@ set https_proxy=
 **格式**: 
 
 ```shell
-$env:http_proxy="http://proxy_userid:proxy_password@proxy_ip:proxy_port"
+$env:http_proxy="http://[proxy_userid]:[proxy_password]@proxy_ip:proxy_port"
 ```
 
 输入设置代理的命令: 
@@ -156,7 +156,7 @@ $env:https_proxy=""
 **格式**: 
 
 ```bash
-export http_proxy=http://proxy_userid:proxy_password@proxy_ip:proxy_port
+export http_proxy=http://[proxy_userid]:[proxy_password]@proxy_ip:proxy_port
 ```
 
 **HTTP代理**: 
@@ -220,8 +220,7 @@ unset ALL_RPOXY
 **格式**: 
 
 ```shell
-git config --global http.proxy http://127.0.0.1:7890
-git config --global https.proxy http://127.0.0.1:7890
+git config --global http.proxy http://[proxy_userid]:[proxy_password]@proxy_ip:proxy_port
 ```
 
 **HTTP代理**: 

@@ -22,7 +22,7 @@ Chromium 系浏览器扩展: [Aria2 for Chrome](https://chrome.google.com/websto
 
 ## 流程
 
-使用流程是：启动 `aria2c.exe` , 浏览器扩展通过 RPC 连接 `aria2c.exe` , 右击下载链接, 选择 `导出到 ARIA2 RPC` 以使用 `aria2c.exe` 进行下载。可以使用扩展集成的 `Aria2NG` 面板管理下载。
+使用流程是: 启动 `aria2c.exe` , 浏览器扩展通过 RPC 连接 `aria2c.exe` , 右击下载链接, 选择 `导出到 ARIA2 RPC` 以使用 `aria2c.exe` 进行下载。可以使用扩展集成的 `Aria2NG` 面板管理下载。
 
 ## 启动 aria2c.exe
 
@@ -30,7 +30,7 @@ Chromium 系浏览器扩展: [Aria2 for Chrome](https://chrome.google.com/websto
 
 虽然 `aria2c --conf=aria2.conf` 就可以启动了, 但是一关闭终端窗口, `aria2c.exe` 就会停止。
 
-创建 `vbs` 文件, 写入以下内容, 隐藏运行窗口, 使 `aria2c.exe` 后台运行?
+创建 `vbs` 文件, 写入以下内容, 隐藏运行窗口, 使 `aria2c.exe` 后台运行也可以: 
 
 ```
 CreateObject("WScript.Shell").Run "aria2c.exe --conf-path=aria2.conf",0
@@ -42,26 +42,26 @@ CreateObject("WScript.Shell").Run "aria2c.exe --conf-path=aria2.conf",0
 
 ### 常规
 
-更改用户或组，使用 *SYSTEM* 账户。
+更改用户或组, 使用 *SYSTEM* 账户。
 
 选择 *只在用户登录时运行* 。
 
-如果要使用 `falloc` 的文件预分配方式，又出现报错 `[WARN] Gaining privilege SeManageVolumePrivilege failed` ，则需要勾选 *使用最高权限运行* 。
+如果要使用 `falloc` 的文件预分配方式, 又出现报错 `[WARN] Gaining privilege SeManageVolumePrivilege failed` , 则需要勾选 *使用最高权限运行* 。
 
 ### 触发器
 
-新建，开始任务选择 *登录时* ，按需选择 *延迟任务时间* ，勾选 *已启用* 。
+新建, 开始任务选择 *登录时* , 按需选择 *延迟任务时间* , 勾选 *已启用* 。
 
 ### 操作
 
-新建，操作选择 *启动程序* ，程序或脚本填写 `aria2c.exe` ，添加参数填写 `--conf=aria2.conf` ，起始于填写 `aria2c.exe` 所在目录的路径。
+新建, 操作选择 *启动程序* , 程序或脚本填写 `aria2c.exe` , 添加参数填写 `--conf=aria2.conf` , 起始于填写 `aria2c.exe` 所在目录的路径。
 
 ### 条件
 
-全部取消勾选，包括灰显的。
+全部取消勾选, 包括灰显的。
 
 ### 设置
 
 仅勾选 *允许按需运行任务* 。
 
-如果此任务已经运行，以下规则适用：*请勿启动新实例* 。
+如果此任务已经运行, 以下规则适用: *请勿启动新实例* 。

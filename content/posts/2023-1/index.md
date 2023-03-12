@@ -36,11 +36,11 @@ Chromium 系浏览器扩展: [Aria2 for Chrome](https://chrome.google.com/websto
 CreateObject("WScript.Shell").Run "aria2c.exe --conf-path=aria2.conf",0
 ```
 
-## 开机自启动(推荐)
+### 开机自启动(推荐)
 
 打开任务计划程序, 创建任务:
 
-### 常规
+#### 常规
 
 更改用户或组, 使用 *SYSTEM* 账户。
 
@@ -48,19 +48,19 @@ CreateObject("WScript.Shell").Run "aria2c.exe --conf-path=aria2.conf",0
 
 如果要使用 `falloc` 的文件预分配方式, 又出现报错 `[WARN] Gaining privilege SeManageVolumePrivilege failed` , 则需要勾选 *使用最高权限运行* 。
 
-### 触发器
+#### 触发器
 
 新建, 开始任务选择 *登录时* , 按需选择 *延迟任务时间* , 勾选 *已启用* 。
 
-### 操作
+#### 操作
 
 新建, 操作选择 *启动程序* , 程序或脚本填写 `aria2c.exe` , 添加参数填写 `--conf=aria2.conf` , 起始于填写 `aria2c.exe` 所在目录的路径。
 
-### 条件
+#### 条件
 
 全部取消勾选, 包括灰显的。
 
-### 设置
+#### 设置
 
 仅勾选 *允许按需运行任务* 。
 
